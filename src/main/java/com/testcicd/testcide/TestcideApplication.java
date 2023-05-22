@@ -9,7 +9,7 @@ public class TestcideApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestcideApplication.class, args);
 
-		System.out.println("test cicd ......");
+		System.out.println("test cicd test......");
 	}
 
 }
